@@ -1,2 +1,2 @@
-# graphql-basics
+# graphQL-fudamentals
 Created with CodeSandbox

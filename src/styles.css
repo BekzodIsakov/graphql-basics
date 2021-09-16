@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+
+img {
+  display: block;
+  width: 200px;
+}
+
+button {
+  cursor: pointer;
+}
